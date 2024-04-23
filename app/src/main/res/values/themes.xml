@@ -5,7 +5,6 @@
         <item name="colorPrimaryVariant">@color/lavender</item>
         <item name="colorOnPrimary">@color/white</item>
         <item name="android:statusBarColor">@color/lavender</item>
-        <item name="android:windowFullscreen">true</item>
     </style>
 
     <style name="Theme.MainActivity" parent="Theme.MaterialComponents.DayNight.NoActionBar">
