@@ -17,6 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="56dp"
             android:id="@+id/toolbar"
+            app:title="Title Should Be Different"
             android:elevation="4dp"
             android:background="@color/lavender"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
